@@ -6,7 +6,7 @@
 - 💬 Ask me about react, typescript, redux
 - 📫 How to reach me idogmat@gmail.com
 
-![stats](https://github-readme-stats.vercel.app/api?username=idogmat&show_icons=true&bg_color=5c5c5c&title_color=ffffff&text_color=ffffff&icon_color=ecb613)
+![Evgeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=idogmat&show_icons=true&bg_color=5c5c5c&title_color=ffffff&text_color=ffffff&icon_color=ecb613)
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient1&fontColor=fff)
