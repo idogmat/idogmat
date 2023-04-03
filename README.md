@@ -2,7 +2,7 @@
 
 [![codewars](https://www.codewars.com/users/idogmat/badges/large)](https://www.codewars.com/users/idogmat)
 
-- 🌱 I’m currently learning node.js / Next.js
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about react, typescript, redux
 - 📫 How to reach me idogmat@gmail.com
 
